@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1rem;
+}
+img {
+  width: 40px;
+  object-fit: contain;
+}
+.header__icon {
+  padding: 1rem;
+}
